@@ -1,0 +1,32 @@
+.a {font-size: 1.5cm;}
+.b {font-size: 1.5mm;}
+.c {font-size: 1.5in;}
+.d {font-size: 20px;}
+.e {font-size: 20pt;}
+.f {font-size: 1.5pc;}
+.em{font-size: 50px;}
+.ex{font-size: 50px;}
+span{
+	font-size: 5ex;
+}
+.vmin{
+	font-size:15vmin;
+}
+.vmax{
+	font-size:15vmax;
+}
+.vw{
+	width: 100vw;
+}
+.vh{
+	font-size:20vh;
+}
+.per{
+	font-size:100%;
+}
+.ch{
+	  font-size: 3ch;
+}
+.rem{
+	  font-size: 3rems;
+}
